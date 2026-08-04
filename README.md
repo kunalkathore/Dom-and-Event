@@ -12,18 +12,17 @@ We can put data into a variable using an assignment operator (=).
 JAVASCRIPT
 1
 let message = 'Hello Rahul';
+
 JAVASCRIPT
 12
 let message;message = 'Hello Rahul';
 
 Note
 Printing a variable without assigning a value will give the output undefined.
+
 2. Document Object Model (DOM)
 The DOM is the structured representation of the HTML document created by the browser. It allows JavaScript to manipulate, structure, and style your website.
 
-HTML
-12345678
-<!DOCTYPE html><html>  <head></head>  <body>    <h1>Web Technologies</h1>    <button>Change Heading</button>  </body></html>
 2.1 Document Object
 It is the entry point of the DOM. For accessing any HTML Element, you should always start with accessing the document object first.
 
