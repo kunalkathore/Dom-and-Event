@@ -2,12 +2,15 @@
 .dark-background {
   background-color: #0b0b0b;
 }
+
 .bulb-image {
   width: 150px;
 }
+
 .cat-image {
   width: 300px;
 }
+
 .switch-board {
   background-color: #7b8794;
   width: 294px;
@@ -19,6 +22,7 @@
   padding-bottom: 32px;
   margin: 16px;
 }
+
 .switch-status {
   color: #ffffff;
   font-family: "Roboto";
@@ -26,6 +30,7 @@
   font-weight: 500;
   margin-bottom: 24px;
 }
+
 .on-switch {
   color: #ffffff;
   background-color: #cbd2d9;
@@ -37,6 +42,7 @@
   border-radius: 8px;
   margin-left: 16px;
 }
+
 .off-switch {
   color: #ffffff;
   background-color: #e12d39;
